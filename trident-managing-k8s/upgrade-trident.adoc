@@ -34,7 +34,8 @@ NOTE: La mise à niveau vers une version à cinq versions à venir vous oblige �
 IMPORTANT: Toutes les mises à niveau vers les versions 19.04 et précédentes exigent de migrer les métadonnées d'Astra Trident qui lui sont propres `etcd` Aux objets CRD. Assurez-vous de consulter la documentation de la version pour comprendre le fonctionnement de la mise à niveau.
 
 
-WARNING: Lors de la mise à niveau, il est important de fournir `parameter.fsType` dans `StorageClasses` Utilisé par Astra Trident. Vous pouvez supprimer et recréer `StorageClasses` sans interrompre les volumes existants. Il s'agit d'une exigence **** pour l'application https://kubernetes.io/docs/tasks/configure-pod-container/security-context/["contextes de sécurité"^] Pour les volumes SAN. Le https://github.com/NetApp/trident/tree/master/trident-installer/sample-input["entrée d'échantillon"^] le répertoire contient des exemples, par exemple[`storage-class-basic.yaml.templ`^] et[`storage-class-bronze-default.yaml`^]. Pour plus d'informations, voir link:../trident-rn.html["Problèmes connus"^].
+WARNING: Lors de la mise à niveau, il est important de fournir `parameter.fsType` dans `StorageClasses` Utilisé par Astra Trident. Vous pouvez supprimer et recréer `StorageClasses` sans interrompre les volumes existants. Il s'agit d'une exigence **** pour l'application https://kubernetes.io/docs/tasks/configure-pod-container/security-context/["contextes de sécurité"^] Pour les volumes SAN. Le https://github.com/NetApp/trident/tree/master/trident-installer/sample-input["entrée d'échantillon"^] le répertoire contient des exemples, par exemple[`storage-class-basic.yaml.templ`^] et[`storage-class-bronze-default.yaml`^].
+Pour plus d'informations, voir link:../trident-rn.html["Problèmes connus"^].
 
 
 
