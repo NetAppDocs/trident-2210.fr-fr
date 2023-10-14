@@ -188,7 +188,7 @@ Pour les installations utilisant des systèmes à air comprimé, la liste suivan
 * registry.k8s.io/sig-storage/csi-provisionneur:v3.3.0
 * registry.k8s.io/sig-storage/csi-attacher:v4.0.0
 * registry.k8s.io/sig-storage/csi-resizer:v1.6.0
-* registry.k8s.io/sig-storage/csi-snapshotter:v3.0.3
+* registry.k8s.io/sig-storage/csi-snapshotter:v6.1.0
 * registry.k8s.io/sig-storage/csi-node-driver-registratr:v2.5.1
 * docker.io/netapp/trident-operator:22.10.0 (en option)
 
@@ -201,7 +201,7 @@ Pour les installations utilisant des systèmes à air comprimé, la liste suivan
 * registry.k8s.io/sig-storage/csi-provisionneur:v3.3.0
 * registry.k8s.io/sig-storage/csi-attacher:v4.0.0
 * registry.k8s.io/sig-storage/csi-resizer:v1.6.0
-* registry.k8s.io/sig-storage/csi-snapshotter:v3.0.3
+* registry.k8s.io/sig-storage/csi-snapshotter:v6.1.0
 * registry.k8s.io/sig-storage/csi-node-driver-registratr:v2.5.1
 * docker.io/netapp/trident-operator:22.10.0 (en option)
 
@@ -214,7 +214,7 @@ Pour les installations utilisant des systèmes à air comprimé, la liste suivan
 * registry.k8s.io/sig-storage/csi-provisionneur:v3.3.0
 * registry.k8s.io/sig-storage/csi-attacher:v4.0.0
 * registry.k8s.io/sig-storage/csi-resizer:v1.6.0
-* registry.k8s.io/sig-storage/csi-snapshotter:v3.0.3
+* registry.k8s.io/sig-storage/csi-snapshotter:v6.1.0
 * registry.k8s.io/sig-storage/csi-node-driver-registratr:v2.5.1
 * docker.io/netapp/trident-operator:22.10.0 (en option)
 
@@ -227,7 +227,7 @@ Pour les installations utilisant des systèmes à air comprimé, la liste suivan
 * registry.k8s.io/sig-storage/csi-provisionneur:v3.3.0
 * registry.k8s.io/sig-storage/csi-attacher:v4.0.0
 * registry.k8s.io/sig-storage/csi-resizer:v1.6.0
-* registry.k8s.io/sig-storage/csi-snapshotter:v3.0.3
+* registry.k8s.io/sig-storage/csi-snapshotter:v6.1.0
 * registry.k8s.io/sig-storage/csi-node-driver-registratr:v2.5.1
 * docker.io/netapp/trident-operator:22.10.0 (en option)
 
@@ -240,7 +240,7 @@ Pour les installations utilisant des systèmes à air comprimé, la liste suivan
 * registry.k8s.io/sig-storage/csi-provisionneur:v3.3.0
 * registry.k8s.io/sig-storage/csi-attacher:v4.0.0
 * registry.k8s.io/sig-storage/csi-resizer:v1.6.0
-* registry.k8s.io/sig-storage/csi-snapshotter:v3.0.3
+* registry.k8s.io/sig-storage/csi-snapshotter:v6.1.0
 * registry.k8s.io/sig-storage/csi-node-driver-registratr:v2.5.1
 * docker.io/netapp/trident-operator:22.10.0 (en option)
 
@@ -253,7 +253,7 @@ Pour les installations utilisant des systèmes à air comprimé, la liste suivan
 * registry.k8s.io/sig-storage/csi-provisionneur:v3.3.0
 * registry.k8s.io/sig-storage/csi-attacher:v4.0.0
 * registry.k8s.io/sig-storage/csi-resizer:v1.6.0
-* registry.k8s.io/sig-storage/csi-snapshotter:v3.0.3
+* registry.k8s.io/sig-storage/csi-snapshotter:v6.1.0
 * registry.k8s.io/sig-storage/csi-node-driver-registratr:v2.5.1
 * docker.io/netapp/trident-operator:22.10.0 (en option)
 

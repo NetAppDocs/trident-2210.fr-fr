@@ -3452,7 +3452,6 @@
   <block id="74d7347d2d8b4324553eb6d881988fbd" category="list-text">registry.k8s.io/sig-storage/csi-provisionneur:v3.3.0</block>
   <block id="e42bb43c53b774cb18202277627ded6a" category="list-text">registry.k8s.io/sig-storage/csi-attacher:v4.0.0</block>
   <block id="b21bbc0cbede5460307bb0a474f8606c" category="list-text">registry.k8s.io/sig-storage/csi-resizer:v1.6.0</block>
-  <block id="63ecb6130cad9815e1932d6c6dd2fd48" category="list-text">registry.k8s.io/sig-storage/csi-snapshotter:v3.0.3</block>
   <block id="730890f7a33619a5f272f2ed9a434ed0" category="list-text">registry.k8s.io/sig-storage/csi-node-driver-registratr:v2.5.1</block>
   <block id="4dfe67785205ed3d7f2cb3ca8eafaa68" category="list-text">docker.io/netapp/trident-operator:22.10.0 (en option)</block>
   <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
@@ -3468,4 +3467,5 @@ Pour plus d'informations, voir <block ref="139a59f2208174d2bf825b80dc580275" cat
   <block id="1dedbfd605df8b562acc8f759a8e9acc" category="list-text">Un cluster Kubernetes exécutant un <block ref="229e1052bb9ecd8cf2680d6f44691174" category="inline-link-macro-rx"></block></block>
   <block id="daeed8b959c87c723c9a96bfb5a96851" category="list-text">Un problème courant que vous pouvez rencontrer avec Trident<block ref="24a785881ff1cdf191a2239811dc9597" category="inline-link-rx"></block> lorsque les secrets de locataire et de client proviennent d'un enregistrement d'application avec des autorisations insuffisantes. Pour obtenir la liste complète des exigences Trident, reportez-vous à la section <block ref="e08bee233140d24c18d95885ad07d2bb" category="inline-link-macro-rx"></block> configuration.</block>
   <block id="3e9e53a916f99df7d6286c52e3b7a9d5" category="paragraph">Par défaut, Astra Trident ne définit pas d'option de montage sur aucune valeur avec Kubernetes. Pour spécifier les options de montage dans la classe de stockage Kubernetes, suivez l'exemple donné<block ref="fe27d7e6fa26e46ae96377664e7dbdff" category="inline-link-rx"></block>.</block>
+  <block id="c60d7bfd38dc514d4e2eaa66c5a0a5fd" category="list-text">registry.k8s.io/sig-storage/csi-snapshotter:v6.1.0</block>
 </blocks>
